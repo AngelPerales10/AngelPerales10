@@ -1,5 +1,8 @@
-### Hi there 👋
+## Where Ideas Come To Life ⁺˚*･༓☾
 
+### Homelab Projects
+---
+🎶 Soundspot (Music Server) 
 <!--
 **AngelPerales10/AngelPerales10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
