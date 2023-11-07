@@ -2,7 +2,7 @@
 
 ### Homelab Projects
 ---
-🎶 Soundspot (Music Server) 
+🎶 [Soundspot (Music Server)](https://github.com/AngelPerales10/Soundspot) 
 <!--
 **AngelPerales10/AngelPerales10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
