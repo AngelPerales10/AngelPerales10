@@ -2,7 +2,7 @@
 
 ### Homelab Projects
 ---
-👁️ [Azure Honeynet + SOC](https://github.com/AngelPerales10/Azure-Honeynet-SOC/tree/main)
+👁️ [Azure Cybersecurity Honeynet + SOC](https://github.com/AngelPerales10/Azure-Honeynet-SOC/tree/main)
 
 🎶 [Soundspot (Music Server)](https://github.com/AngelPerales10/Soundspot) 
 <!--
